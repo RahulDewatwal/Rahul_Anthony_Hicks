@@ -1,0 +1,6 @@
+location,timestamp_utc,temp_f,feels_like_f,humidity_pct,condition,wind_mph,wind_dir,visibility_mi,uv_index,alerts
+Birmingham AL 35205,2026-10-19T14:30:00Z,72,68,54,Partly Cloudy,9,SW,10.0,4,None
+Memphis TN 38101,2026-10-19T14:30:00Z,70,66,58,Clear,6,SSW,10.0,5,None
+Asheville NC 28801,2026-10-19T14:30:00Z,55,50,72,Overcast,11,NW,7.0,2,None
+Knoxville TN 37902,2026-10-19T14:30:00Z,58,53,68,Mostly Cloudy,9,NW,8.5,3,None
+Nashville TN 37203,2026-10-19T14:30:00Z,68,64,55,Sunny,7,SW,10.0,5,None

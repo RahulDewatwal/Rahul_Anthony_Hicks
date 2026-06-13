@@ -1,0 +1,5 @@
+query,result_rank,page_id,title,relevance_score,snippet
+cpap compliance requirements,1,CONF-002,DOT Medical Card - CPAP Compliance Requirements v2.0,0.97,minimum 80% of nights with 6+ hours average use
+cpap compliance requirements,2,CONF-001,DOT Medical Card - CPAP Compliance Requirements v1.0,0.82,minimum 70% of nights with 4+ hours average use [ARCHIVED]
+per mile pay rate,1,CONF-005,Driver Payroll - Per-Mile Rate Schedule 2026,0.95,Class A OTR Drivers: $0.62/mile effective January 1 2026
+restwell backorder,1,CONF-006,Supply Chain Updates - Restwell Medical Vendor Note,0.99,backorder on ResMed P30i Nasal Pillow Cushion Small SKU. Medium unaffected.

@@ -1,0 +1,11 @@
+tracking_number,event_datetime,event_city,event_state,event_code,event_description
+7748901234560001,2026-10-16 08:32,Memphis,TN,PU,Package picked up from Restwell Medical Supply
+7748901234560001,2026-10-16 21:15,Memphis,TN,DP,Departed FedEx facility — Memphis hub
+7748901234560001,2026-10-17 03:48,Nashville,TN,IT,In transit — Nashville gateway
+7748901234560001,2026-10-17 09:20,Birmingham,AL,AR,Arrived at FedEx Birmingham delivery station
+7748901234560005,2026-10-14 10:00,Memphis,TN,PU,Package picked up — BACKORDER FLAG: item held pending inventory
+7748901234560005,2026-10-14 14:30,Memphis,TN,DY,Delay — shipper backorder. Revised ETA Oct 22
+7748901234560006,2026-10-15 08:45,Memphis,TN,PU,Correct replacement item P30i MEDIUM picked up
+7748901234560006,2026-10-16 02:10,Memphis,TN,DP,Departed hub — correct item en route
+7748901234560002,2026-07-14 09:00,Memphis,TN,PU,Picked up
+7748901234560002,2026-07-17 11:22,Birmingham,AL,DL,Delivered — front door

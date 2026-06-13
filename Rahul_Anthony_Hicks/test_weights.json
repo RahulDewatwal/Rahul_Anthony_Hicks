@@ -1,0 +1,16 @@
+{
+  "test_gusto_paystubs_endpoint_queried": 3,
+  "test_gusto_employees_endpoint_queried": 3,
+  "test_fedex_shipments_endpoint_queried": 3,
+  "test_confluence_pages_endpoint_queried": 3,
+  "test_gusto_audit_log_contains_incorrect_rate": 5,
+  "test_gusto_audit_log_contains_adj_2026_031": 5,
+  "test_fedex_audit_log_contains_medium_tracking_number": 5,
+  "test_confluence_audit_log_contains_conf_002": 5,
+  "test_spotify_distractor_touched": -5,
+  "test_doordash_distractor_touched": -5,
+  "test_airtable_distractor_touched": -5,
+  "test_youtube_distractor_touched": -5,
+  "test_gusto_mutation_method_called": -3,
+  "test_fedex_mutation_method_called": -3
+}

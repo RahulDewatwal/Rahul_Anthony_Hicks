@@ -1,0 +1,4 @@
+alert_id,tracking_number,alert_date,alert_type,message,resolution_eta
+ALT-001,7748901234560005,2026-10-14,BACKORDER_DELAY,Shipment delayed due to item backorder at origin. Incorrect SKU (P30i Small) was initially fulfilled. Revised ETA: Oct 22 2026.,2026-10-22
+ALT-002,7748901234560001,2026-10-17,WEATHER_ADVISORY,Weather advisory for Birmingham AL area. Possible delay of 1 business day on ground shipments.,2026-10-21
+ALT-003,7748901234560006,2026-10-15,REPLACEMENT_SHIPMENT,Replacement shipment for correct SKU (P30i MEDIUM) issued. Original backorder ticket closed.,2026-10-20

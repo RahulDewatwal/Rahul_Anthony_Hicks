@@ -1,0 +1,4 @@
+alert_id,alert_type,sender,start_dt,end_dt,event,description,location,severity
+WX-ALERT-001,SPECIAL_WEATHER_STATEMENT,NWS Amarillo TX,2026-06-13T20:00:00Z,2026-06-14T08:00:00Z,Pressure Drop Advisory,Barometric pressure expected to drop from 29.80 to 29.50 inHg overnight across the Texas Panhandle region. Individuals sensitive to pressure changes should take precautions.,Briscoe TX and surrounding Hall County,ADVISORY
+WX-ALERT-002,WIND_ADVISORY,NWS Amarillo TX,2026-06-13T21:00:00Z,2026-06-14T06:00:00Z,Wind Advisory,South winds 20 to 25 mph with gusts up to 35 mph. Loose objects should be secured.,Texas Panhandle including Hall County,ADVISORY
+WX-ALERT-003,AREAL_FLOOD_WATCH,NWS Amarillo TX,2026-06-13T22:00:00Z,2026-06-14T10:00:00Z,Areal Flood Watch,1 to 2 inches of rainfall possible overnight. Low-lying areas and ranch roads may be affected.,Hall County TX,WATCH

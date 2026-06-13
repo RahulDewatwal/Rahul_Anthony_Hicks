@@ -1,0 +1,3 @@
+alert_id,location,issued_datetime,expires_datetime,alert_type,severity,affected_highways,description
+WX-2026-1019-001,Asheville NC / Knoxville TN corridor,2026-10-19T22:00:00Z,2026-10-20T12:00:00Z,DENSE FOG ADVISORY,MODERATE,I-40 MM 0-55 NC; I-40 MM 388-420 TN,Dense fog expected overnight through late morning Oct 20. Visibility may drop below quarter mile through the Smokies. Reduce speed, use low beams, increase following distance. CDL drivers: exercise caution on grades.
+WX-2026-1022-001,Cleveland OH metro,2026-10-21T18:00:00Z,2026-10-22T18:00:00Z,RAIN/WIND ADVISORY,LOW,I-77 I-90 I-271,Steady rain with gusts to 30mph. Road spray may reduce visibility. No travel restrictions but conditions unfavorable for oversized loads.

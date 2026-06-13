@@ -1,0 +1,4 @@
+Visit_Date,Period,Nights_Monitored,Compliant_Nights_6h,Compliance_Pct,Avg_Hours,AHI,Status,Notes
+2026-04-10,Jan 1 - Mar 31 2026,85,72,84.7,6.2,7.9,COMPLIANT,Meets March 2026 policy: 80%/6h/AHI<10. Report one decimal on pct.
+2025-10-15,Jul 1 - Sep 30 2025,88,74,84.0,6.1,8.3,COMPLIANT (OLD POLICY),Met Oct 2024 policy: 70%/4h/AHI<15. STALE — do not quote to Ridgeline.
+2025-04-08,Jan 1 - Mar 31 2025,82,68,82.9,6.0,9.1,COMPLIANT (OLD POLICY),Met Oct 2024 policy. STALE.

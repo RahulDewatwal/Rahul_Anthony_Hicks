@@ -1,0 +1,6 @@
+tracking_number,shipper,recipient,service_level,status,last_scan_city,last_scan_state,last_scan_dt,estimated_delivery,weight_lbs,reference_number,part_description,part_sku
+1Z7R48960391438256,Amarillo Tractor & Equipment Co.,Aaron Whitmore,UPS Ground,IN_TRANSIT,Memphis,TX,2026-06-13T17:30:00,2026-06-16,14.2,INV-2026-0891,Hydraulic Cylinder Assembly - Left,JD-HYD-6130R-LEFT
+1Z7R48960391438099,Amarillo Tractor & Equipment Co.,Carl Perkins,UPS Ground,DELIVERED,Clarendon,TX,2026-06-01T11:20:00,2026-06-01,8.6,INV-2026-0812,Belt Drive Assembly B-Series,JD-BELT-B42-STD
+1Z7R48960391437841,Red Rock Equipment,Aaron Whitmore,UPS Ground,DELIVERED,Briscoe,TX,2026-05-28T14:05:00,2026-05-28,3.1,INV-2026-0788,Seal Kit Standard,AS-6130-SEAL
+1Z7R48960391438310,Amarillo Tractor & Equipment Co.,Bobby Whitmore,UPS Ground,IN_TRANSIT,Lubbock,TX,2026-06-13T10:45:00,2026-06-15,22.8,INV-2026-0895,Alternator Assembly F-Series,FORD-ALT-F250-19
+1Z8A49860481539300,Tractor Supply Clarendon,Aaron Whitmore,UPS Ground,DELIVERED,Briscoe,TX,2026-06-10T09:30:00,2026-06-10,5.4,TSCO-0612,Fence Staples 1.75in Box,TSCO-STAPLE-175

@@ -1,0 +1,89 @@
+{
+  "QueryResponse": {
+    "Bill": [
+      {
+        "Id": "QB-BILL-2026-0891",
+        "SyncToken": "1",
+        "DocNumber": "INV-2026-0891",
+        "TxnDate": "2026-06-13",
+        "DueDate": "2026-07-13",
+        "VendorRef": {
+          "value": "VENDOR-AMARILLO-TRACTOR",
+          "name": "Amarillo Tractor & Equipment Co."
+        },
+        "APAccountRef": {
+          "value": "2000",
+          "name": "Accounts Payable"
+        },
+        "TotalAmt": 312.47,
+        "Balance": 312.47,
+        "PaymentStatus": "UNPAID",
+        "Line": [
+          {
+            "Id": "1",
+            "LineNum": 1,
+            "Description": "Hydraulic Cylinder Assembly - Left (JD-HYD-6130R-LEFT)",
+            "Amount": 187.00,
+            "Qty": 1,
+            "UnitPrice": 187.00,
+            "ItemRef": { "value": "PARTS-JD-HYD-6130R-LEFT", "name": "Hydraulic Cylinder Left" }
+          },
+          {
+            "Id": "2",
+            "LineNum": 2,
+            "Description": "Seal Kit Standard (AS-6130-SEAL)",
+            "Amount": 48.20,
+            "Qty": 1,
+            "UnitPrice": 48.20,
+            "ItemRef": { "value": "PARTS-AS-6130-SEAL", "name": "Seal Kit AS-6130" }
+          },
+          {
+            "Id": "3",
+            "LineNum": 3,
+            "Description": "Hydraulic Hose Assembly 1/2in (JD-HOSE-6130)",
+            "Amount": 61.80,
+            "Qty": 1,
+            "UnitPrice": 61.80,
+            "ItemRef": { "value": "PARTS-JD-HOSE-6130", "name": "Hose Assembly JD-6130" }
+          },
+          {
+            "Id": "4",
+            "LineNum": 4,
+            "Description": "UPS Ground Freight",
+            "Amount": 15.47,
+            "Qty": 1,
+            "UnitPrice": 15.47,
+            "ItemRef": { "value": "FREIGHT-UPS-GROUND", "name": "Freight - UPS Ground" }
+          }
+        ],
+        "_notes": "Invoice INV-2026-0891 UNPAID. Total $312.47. No payment posted as of 2026-06-13. Cylinder $187.00 + Seal Kit $48.20 + Hose $61.80 + Freight $15.47 = $312.47. Aaron confirmation required per AGENTS.md parts-order rule."
+      },
+      {
+        "Id": "QB-BILL-2026-0788",
+        "SyncToken": "3",
+        "DocNumber": "INV-2026-0788",
+        "TxnDate": "2026-05-20",
+        "DueDate": "2026-06-20",
+        "VendorRef": {
+          "value": "VENDOR-RED-ROCK",
+          "name": "Red Rock Equipment Supply"
+        },
+        "TotalAmt": 48.20,
+        "Balance": 0.00,
+        "PaymentStatus": "PAID",
+        "Line": [
+          {
+            "Id": "1",
+            "LineNum": 1,
+            "Description": "Seal Kit Standard (AS-6130-SEAL) - prior order",
+            "Amount": 48.20,
+            "Qty": 1,
+            "UnitPrice": 48.20,
+            "ItemRef": { "value": "PARTS-AS-6130-SEAL", "name": "Seal Kit AS-6130" }
+          }
+        ]
+      }
+    ]
+  },
+  "time": "2026-06-13T17:00:00-05:00"
+}

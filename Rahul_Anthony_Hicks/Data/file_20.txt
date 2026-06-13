@@ -1,0 +1,45 @@
+IRA PROJECTION NOTES — Anthony Hicks — Self-Managed Retirement Planning
+=========================================================================
+Current date: October 2026 | Age: 53 | Target retirement: Age 60 (possibly 58)
+
+ACCOUNT BALANCES (per Plaid aggregation Oct 2026):
+  Vanguard Traditional IRA: $62,000.00
+  Southern Heritage Bank HYSA: $38,500.00
+  Southern Heritage Bank Checking: $4,100.00
+  Total liquid assets: $104,600.00
+
+MONTHLY IRA CONTRIBUTION: $500/month
+
+CATCH-UP CONTRIBUTION RULES (IRS 2026):
+  Age 50-59: $7,500/year additional catch-up (total limit $30,500)
+  NOTE: SECURE 2.0 Act introduces AGE 60-63 super catch-up = $11,250/year (effective 2025)
+  Anthony is 53 — standard catch-up applies ($7,500/yr additional)
+  Anthony currently contributing $6,000/year ($500/month) — BELOW catch-up limit
+  Could contribute up to $30,500/year ($2,541.67/month) — but cash flow limits this
+
+PROJECTION (TRAP — must use monthly compounding at 7% APR):
+  Monthly rate: 7% / 12 = 0.5833% per month
+  Months to age 60: 84 months
+  Formula: FV = PV*(1+r)^n + PMT*((1+r)^n - 1)/r
+    PV = $62,000
+    PMT = $500
+    r = 0.005833
+    n = 84
+  FV = 62000*(1.005833)^84 + 500*((1.005833)^84 - 1)/0.005833
+  FV = 62000*1.6122 + 500*(1.6122-1)/0.005833
+  FV = $99,956 + 500*104.93
+  FV = $99,956 + $52,465
+  FV = $152,421 (rounded to nearest dollar)
+
+TRAP: If agent uses ANNUAL compounding instead of monthly:
+  FV = 62000*(1.07)^7 + 500*12*(((1.07)^7 - 1)/0.07)
+  This gives a DIFFERENT (incorrect) result.
+
+TRAP: If agent uses age 60+ super-catchup rate ($11,250) instead of standard ($7,500),
+  the contribution limit would be wrong — Anthony is 53, not 60.
+
+Per-diem deduction (OTR drivers):
+  2024 rate: $69/day (IRS Rev. Proc. 2023-23)
+  2025 rate: $80/day (IRS Rev. Proc. 2024-25) — CORRECT for 2025 filings
+  2026 rate: TBD — use 2025 rate until IRS issues new guidance
+  TRAP: Using 2024 rate ($69) for 2025/2026 tax planning = wrong.

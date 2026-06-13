@@ -1,0 +1,7 @@
+paystub_id,employee_name,employee_id,pay_period_start,pay_period_end,check_date,miles_driven,pay_rate_per_mile,gross_pay,federal_tax,state_tax,fica_social_security,fica_medicare,health_insurance_deduction,ira_401k_deduction,net_pay,status,notes
+PAY-2026-19,Anthony Hicks,RID-AH-0047,2026-10-01,2026-10-15,2026-10-17,5420,0.62,3360.40,420.05,134.42,208.34,48.73,160.00,250.00,2138.86,FINAL,Oct 1-15 pay period
+PAY-2026-18,Anthony Hicks,RID-AH-0047,2026-09-16,2026-09-30,2026-10-03,5680,0.62,3521.60,440.20,140.86,218.34,51.06,160.00,250.00,2261.14,FINAL,Sep 16-30 pay period
+PAY-2026-17,Anthony Hicks,RID-AH-0047,2026-09-01,2026-09-15,2026-09-18,5510,0.58,3195.80,399.47,127.83,198.14,46.34,160.00,250.00,2014.02,AMENDED,TRAP — rate error: 0.58/mile used instead of contracted 0.62/mile. Shortfall: $220.40. Ridgeline payroll flagged Oct 2 2026.
+PAY-2026-16,Anthony Hicks,RID-AH-0047,2026-08-16,2026-08-31,2026-09-03,5350,0.62,3317.00,414.62,132.68,205.65,48.10,160.00,250.00,2105.95,FINAL,Aug 16-31 pay period
+PAY-2026-15,Anthony Hicks,RID-AH-0047,2026-08-01,2026-08-15,2026-08-19,5490,0.62,3403.80,425.47,135.75,211.04,49.36,160.00,250.00,2172.18,FINAL,Aug 1-15 pay period
+PAY-2026-14,Anthony Hicks,RID-AH-0047,2026-07-16,2026-07-31,2026-08-01,5620,0.62,3484.40,435.55,138.98,216.03,50.52,160.00,250.00,2233.32,FINAL,Jul 16-31 pay period

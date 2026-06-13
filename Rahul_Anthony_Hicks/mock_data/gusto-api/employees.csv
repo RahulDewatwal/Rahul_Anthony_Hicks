@@ -1,0 +1,4 @@
+employee_id,employee_name,department,title,hire_date,pay_type,pay_rate,pay_frequency,home_state,email
+RID-AH-0047,Anthony Hicks,Operations — OTR Fleet,Class A CDL Driver,2014-03-15,per_mile,0.62,bi-weekly,AL,anthony.hicks@Finthesiss.ai
+RID-MH-0012,Mike Hensley,Operations — Dispatch,Senior Dispatcher,2010-07-01,salary,N/A,bi-weekly,AL,m.hensley@ridgeline-freight.com
+RID-JB-0089,James Burrows,Operations — OTR Fleet,Class A CDL Driver,2018-11-01,per_mile,0.62,bi-weekly,TN,j.burrows@ridgeline-freight.com

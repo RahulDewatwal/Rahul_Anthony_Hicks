@@ -1,0 +1,6 @@
+vendor_name,invoice_number,txn_date,due_date,total_amount,balance,payment_status,line1_description,line1_sku,line1_amount,line2_description,line2_sku,line2_amount,line3_description,line3_sku,line3_amount,line4_description,line4_sku,line4_amount
+Amarillo Tractor & Equipment Co.,INV-2026-0891,2026-06-13,2026-07-13,312.47,312.47,UNPAID,Hydraulic Cylinder Assembly Left,JD-HYD-6130R-LEFT,187.00,Seal Kit Standard,AS-6130-SEAL,48.20,Hydraulic Hose Assembly 1/2in,JD-HOSE-6130,61.80,UPS Ground Freight,FREIGHT-UPS-GROUND,15.47
+Amarillo Tractor & Equipment Co.,INV-2026-0812,2026-06-01,2026-07-01,98.40,0.00,PAID,Belt Drive Assembly B-Series,JD-BELT-B42-STD,86.00,UPS Ground Freight,FREIGHT-UPS-GROUND,12.40,,,,,
+Red Rock Equipment Supply,INV-2026-0788,2026-05-20,2026-06-20,48.20,0.00,PAID,Seal Kit Standard Prior Order,AS-6130-SEAL,48.20,,,,,,,
+Amarillo Tractor & Equipment Co.,INV-2026-0745,2026-04-15,2026-05-15,94.60,0.00,PAID,Hydraulic Cylinder Assembly Left PRIOR,JD-HYD-6130R-LEFT,82.00,UPS Ground Freight,FREIGHT-UPS-GROUND,12.60,,,,
+Tractor Supply Clarendon,TSCO-0612,2026-06-10,2026-07-10,28.95,28.95,UNPAID,Fence Staples 1.75in Box,TSCO-STAPLE-175,28.95,,,,,,,

@@ -1,0 +1,4 @@
+adjustment_id,employee_id,created_date,adjustment_type,affected_paystub_id,amount_usd,reason,status,approved_by
+ADJ-2026-031,RID-AH-0047,2026-10-02,PAY_RATE_CORRECTION,PAY-2026-17,220.40,Pay rate error: 0.58/mile applied instead of contracted 0.62/mile for Sep 1-15 period. Shortfall = 5510 miles x $0.04 = $220.40,PENDING_APPROVAL,—
+ADJ-2026-028,RID-AH-0047,2026-09-05,MILEAGE_RECOUNT,PAY-2026-15,0.00,Mileage audit confirmed correct count for Aug 1-15. No adjustment needed.,CLOSED,Mike Hensley
+ADJ-2026-019,RID-AH-0047,2026-07-10,HEALTH_DEDUCTION_CORRECTION,PAY-2026-12,40.00,Health insurance deduction applied twice in Jun 16-30 period. Credit issued on next paystub.,RESOLVED,HR Admin

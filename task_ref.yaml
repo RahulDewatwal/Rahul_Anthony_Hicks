@@ -1,0 +1,7 @@
+difficulty: hard
+modalities: [text, image, video, audio, document]
+l1: commerce_product
+l2: visual_shopping_comparison__with_etsy_apis
+task_type: multimodal_reconciliation
+required_apis: [etsy, amazon-seller]
+distractor_apis: [bigcommerce, woocommerce, instacart, doordash]
