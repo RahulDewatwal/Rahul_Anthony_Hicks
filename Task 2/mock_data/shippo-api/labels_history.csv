@@ -1,5 +1,0 @@
-label_id,tracking_number,carrier,service_level,address_to_name,address_to_street,address_to_city,address_to_state,address_to_zip,address_from_name,address_from_city,parcel_weight_lb,freight_amount_usd,reference_number,part_sku,created_date,status
-label_1a2b3c4d,1Z7R48960391438256,UPS,ups_ground,Aaron Whitmore,7820 County Road 28,Briscoe,TX,79011,Amarillo Tractor & Equipment Co.,Amarillo,14.2,15.47,INV-2026-0891,JD-HYD-6130R-LEFT,2026-06-13,SUCCESS
-label_9z8y7x6w,1Z7R48960391437641,UPS,ups_ground,Aaron Whitmore,7820 County Road 28,Briscoe,TX,79011,Amarillo Tractor & Equipment Co.,Amarillo,6.8,12.80,INV-2025-0641,JD-HYD-6130R-LEFT,2025-09-15,DELIVERED
-label_5f4e3d2c,1Z7R48960391437510,UPS,ups_ground,Carl Perkins,1200 FM 519,Clarendon,TX,79226,Amarillo Tractor & Equipment Co.,Amarillo,9.4,14.20,INV-2025-0598,JD-BELT-B42-STD,2025-08-22,DELIVERED
-label_3b2a1z9y,1Z7R48960391438310,UPS,ups_ground,Bobby Whitmore,3821 SW 45th Ave,Amarillo,TX,79110,Amarillo Tractor & Equipment Co.,Amarillo,22.8,19.50,INV-2026-0895,FORD-ALT-F250-19,2026-06-13,IN_TRANSIT
